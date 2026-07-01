@@ -1,0 +1,40 @@
+# Virtual Environment
+venv/
+
+# Environment Variables
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Pytest Cache
+.pytest_cache/
+
+# IDE Files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# SQLite Database (if used)
+*.db
+
+# Build Files
+build/
+dist/
+*.egg-info/
+
+# Coverage Reports
+htmlcov/
+.coverage
+
+# Jupyter Notebooks Checkpoints
+.ipynb_checkpoints/
